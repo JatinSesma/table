@@ -177,6 +177,7 @@
     background: linear-gradient(94.88deg, rgba(255, 255, 255, 0.1) 0.97%, rgba(255, 255, 255, 0) 103.14%);
     margin-top: 22px;
     margin-bottom: 251px;
+    padding: 15px;
 }
 
 .mt-67 {
@@ -218,13 +219,9 @@
 }
 
 .layout2 {
-    width: 303px;
     height: 375px;
-    top: 493px;
-    left: 884px;
     border-radius: 4px;
     margin-top: 94px;
-    margin-left: 157px;
 }
 
 .box1 {
